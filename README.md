@@ -10,8 +10,8 @@ Deep dive analytics on registered investment adviser and fund administration fir
   - advisor tenure
   - advisor attrition
   - advisor quality (customized)
-  - AUM growth (frequency as reported)
-  - AUM / advisor
+  - AUM growth (frequency as reported), AUM per advisor
+  - Individual client growth, AUM per individual
 
 - Fund Admin (frequency as reported)
   - fund admin player by customer count, AUM, geography, fund type etc.
@@ -42,14 +42,14 @@ git clone https://github.com/michael01810/ria-fund-admin.git
 cd investment-adviser
 
 # 2. RIA
-run advisor_data_pull.py, fund_admin_data_pull.py, advisor_summary.py to get:
+Enter start and end dates to get:
 - advisor_raw_data.csv: full career history of each registered investment advisor representatives (person-level view)
 - advisor_summary_output.xlsx: templated summary table showing grwoth and quality of each RIA (firm-level view)
 
 # 3. Fund Admin
-run fund_admin_data_pull.py to get:
+No inputs needed:
 - fund_admin_output_firm.csv (firm-level -> GGV CAPITAL LLC)
-- fund_admin_output_fund.csv (fund-level -> GGV CAPITAL VIII L.P.)
+- fund_admin_output_fund.csv (fund-level -> GGV CAPITAL VIII L.P. and fund admin for each fund)
 - Firm level history from 2000; fund level history from 2011
 
 ```
