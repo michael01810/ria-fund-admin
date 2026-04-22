@@ -1,4 +1,4 @@
-# Adviser Info (RIA & Fund Admin)
+RIA & Fund Admin Analytics
 
 Using SEC adviser registration and Form ADV to analyze growth and quality of RIAs and fund adminstration players
 
