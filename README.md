@@ -1,6 +1,6 @@
 # RIA & Fund Admin Analytics
 
-Using SEC adviser registration and Form ADV to analyze growth and quality of RIAs and fund adminstration players
+Deep dive analytics on registered investment adviser and fund administration firms for investment sourcing, deal diligence and competitor intelligence.
 
 ## Features
 
