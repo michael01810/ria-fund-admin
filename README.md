@@ -29,7 +29,8 @@ Deep dive analytics on registered investment adviser and fund administration fir
 <img width="1855" height="705" alt="RIA example" src="https://github.com/user-attachments/assets/18b76366-50fd-4ad5-8a8b-5704e19afb3c" />
 
 - Advisor growth from April 2025 to April 2026; AUM reported in March / April 2026 are generally year-end 2025 figures
-- Join = lateral hires from other RIAs. Does not include new grad representatives which drags down YOE (years of experience) metric 
+- Join = lateral hires from other RIAs. Does not include new grad representatives which drags down YOE (years of experience) metric
+- Additional metrics not shown in chart such as # of individual clients, individual AUM (excluding instititional AUM), custodian assets / individual (relevant for Schwab etc.) and other metrics 
 
 ## Fund Admin Example
 <img width="1756" height="643" alt="Fund admin example" src="https://github.com/user-attachments/assets/f131cd4c-5a66-4167-a9ac-d725caf2b785" />
